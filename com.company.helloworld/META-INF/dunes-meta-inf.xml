@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>company.local:443</comment>
+<entry key="vso-build-nb">3533702</entry>
+<entry key="pkg-description"></entry>
+<entry key="pkg-name">com.company.helloworld</entry>
+<entry key="used-plugins"></entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO company.local 74f66f9f-b7c2-4919-a550-2c8277a9ceae</entry>
+<entry key="vso-version">7.0.1.3533702</entry>
+<entry key="pkg-id">ff80808157de896501597b211fba0a73</entry>
+</properties>
